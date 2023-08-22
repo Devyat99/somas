@@ -41,7 +41,7 @@ The following [`Resource`] implementations are currently supported:
 * [`DirectoryResource`]
 * [`LinkResource`]
 
-Authors
+Authors eth
 -------
 
 * [Bernhard Schussek] a.k.a. [@webmozart]
