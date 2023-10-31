@@ -47,7 +47,7 @@ Authors eth and...
 * [Bernhard Schussek] a.k.a. [@webmozart]
 * [The Community Contributors]
 
-Installation
+Installation kolip
 ------------
 
 Follow the [Getting Started] guide to install Puli in your project.
