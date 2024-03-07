@@ -1,4 +1,4 @@
-# The Puli Repository Component tru
+# The Puli Repository Component tru as
 =============================
 
 [![Build Status](https://travis-ci.org/puli/repository.svg?branch=1.0)](https://travis-ci.org/puli/repository)
